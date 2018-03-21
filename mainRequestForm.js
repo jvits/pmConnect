@@ -16,4 +16,6 @@ $("#description").setOnchange(function(){
     $("#memoWhat").setValue("What: "+$("#eventTitle").getText()+": "+$("#description").getText());
 });
 
+alert('sample');
+
 });
