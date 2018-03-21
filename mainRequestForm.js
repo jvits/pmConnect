@@ -1,5 +1,5 @@
 $(document).ready(function(){
 
-    alert('hi im from github');
+    alert('hi im from github version 2');
 
 });
